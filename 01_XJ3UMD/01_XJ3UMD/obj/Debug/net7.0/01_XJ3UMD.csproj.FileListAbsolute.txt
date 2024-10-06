@@ -1,0 +1,15 @@
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/bin/Debug/net7.0/01_XJ3UMD
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/bin/Debug/net7.0/01_XJ3UMD.deps.json
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/bin/Debug/net7.0/01_XJ3UMD.runtimeconfig.json
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/bin/Debug/net7.0/01_XJ3UMD.dll
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/bin/Debug/net7.0/01_XJ3UMD.pdb
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/01_XJ3UMD.csproj.AssemblyReference.cache
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/01_XJ3UMD.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/01_XJ3UMD.AssemblyInfoInputs.cache
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/01_XJ3UMD.AssemblyInfo.cs
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/01_XJ3UMD.csproj.CoreCompileInputs.cache
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/01_XJ3UMD.dll
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/refint/01_XJ3UMD.dll
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/01_XJ3UMD.pdb
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/01_XJ3UMD.genruntimeconfig.cache
+/Users/Sandor/Dropbox/2024_25_MP1/01_XJ3UMD/01_XJ3UMD/01_XJ3UMD/obj/Debug/net7.0/ref/01_XJ3UMD.dll
